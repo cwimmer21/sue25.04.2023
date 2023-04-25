@@ -1,0 +1,19 @@
+{
+    "name": "cwimmer/schuluebung",
+    "description": "A library",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Cwimmer\\Schuluebung\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Cecilia Wimmer",
+            "email": "cwimmer@schueler.hakzell.at"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
